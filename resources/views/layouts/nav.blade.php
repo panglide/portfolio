@@ -2,7 +2,7 @@
 
 
         <div class="sticky">
-            <ul class="nav nav-pills nav-stacked" id="navbar-example">
+            <ul class="nav" id="navbar-example">
                 <li class="nav-item">
                     <a class="nav-link" href="/">Home</a>
                 </li>
@@ -28,9 +28,9 @@
                     <!-- User area dropdown available after login -->
                     <!--To Do: fix collapsed nav UI
                         Add route for account management-->
-
+                        <li class="nav-link ml-auto">
                     @if (Auth::check())
-                    <div class="dropdown show nav-link ml-auto">
+                    <div class="dropdown dropdown-nav">
                         <a class="btn btn-secondary dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         {{ Auth::user()->name }}
                         </a>
@@ -42,6 +42,7 @@
                         </div>
                     </div>
                     @endif
+                    </li>
 
             </ul>
         </div>
