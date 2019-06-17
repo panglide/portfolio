@@ -15,9 +15,7 @@ Route::get('/', 'PostController@index')->name('home');
 Route::get('/about', function () {
     return view('about');
 });
-Route::get('/projects', function () {
-    return view('projects');
-});
+
 
 
 Route::get('/posts/create', 'PostController@create');

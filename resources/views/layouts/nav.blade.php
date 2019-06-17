@@ -11,9 +11,7 @@
                     <a class="nav-link" href="/about">About</a>
                 </li>
 
-                <li class="nav-item">
-                    <a class="nav-link" href="/projects">My Work</a>
-                </li>
+                
 
                 @if (Auth::guest())
                 <li class="nav-item">
