@@ -5,17 +5,16 @@
     <!--To Do Add about content-->
   <h2>About</h2>
   <p class="about-text">
+      Thanks for stopping by to visit my little piece of the wwww.
       I am a self-taught web developer who began learning web application development
-      because I wanted to build out an idea.  Little did I know, that simple
-      decision to "try it out" would shift my entire paradigm.  Now I am a code junkie
-      who cannot get enough.  I don't beleive that will ever change becuase I REALLY enjoy
-      building web applications.
+      because I wanted to build out an idea.  Little did I know, the
+      decision to give it a go and try it out would impact my life so greatly.  Now I am working as a freelance web developer
+      because I love building web based products.  Please contact me if you have a project you are stuck on.
   </p>
   <p class="about-text">
-      I hope you will register for an account and visit often.  I hope this
-      blog will offer some value to those who are starting out and need a roadmap.
-      I hope that I can pay it back in some way because, I have definitely used my
-      fair share of the free resources spanning the www.
+      It is my intention to make this site a resource for people like myself who are trying to figure web
+      development out.  Right now it is just me making something that works but, I hope as my knowledge and experience grow I can add more
+      resources that will help someone find their way in this crazy world of web development.
   </p>
 </div>
 
