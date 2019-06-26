@@ -5,7 +5,7 @@
     <!--To Do Add about content-->
   <h2>About</h2>
   <p class="about-text">
-      Thanks for stopping by to visit my little piece of the wwww.
+      Thanks for stopping by to visit my little piece of the www.
       I am a self-taught web developer who began learning web application development
       because I wanted to build out an idea.  Little did I know, the
       decision to give it a go and try it out would impact my life so greatly.  Now I am working as a freelance web developer
